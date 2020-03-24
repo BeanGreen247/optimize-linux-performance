@@ -98,3 +98,8 @@ sudo dmesg | grep 'zswap.*'
 Adjust these steps as necessary if using a newer version of GRUB or a different bootloader.
 
 That is all.
+
+# videos where used
+[how to improve performance on mate](https://youtu.be/XVE9R0q-f9g)
+
+[how to enable lz4 compression](https://youtu.be/gRVzNzc5QCw)
