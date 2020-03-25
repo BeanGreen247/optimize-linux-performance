@@ -2,11 +2,14 @@
 steps on improving performance on linux
 
 Start on a minimal install
+
 Debian net install iso
+
 https://www.debian.org/distrib/netinst
 
 Ubuntu mini iso
-https://help.ubuntu.com/community/Ins...
+
+https://help.ubuntu.com/community/Installation/MinimalCD
 
 Enable swap
 ```
