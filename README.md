@@ -1,4 +1,4 @@
-# optimize-linux-performance
+# optimize-linux-performance old do not use
 steps on improving performance on linux
 
 Start on a minimal install
